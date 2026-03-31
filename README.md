@@ -29,7 +29,7 @@ As a newly selected Student Digital Ambassador, my role is to help my peers navi
 ### Task 3: Coding & Collaboration Platforms
 * **Goal:** Familiarization with coding practice and cloud collaboration tools.
 * **Details:** Completed a beginner challenge on a coding platform and designed a 5-question Digital Literacy Quiz.
-* **Quiz Link:** [INSERT YOUR GOOGLE FORM LINK HERE]
+* **Quiz Link:** [Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLSdaTMvEshFmvK9EexBLaFNdj0E2zdwZN9Z8uiThLTchRDhzdg/viewform?usp=publish-editor)]
 * **Location:** `task-3-platforms/`
 
 ### Task 4: Email Etiquette & Social Media Guide
